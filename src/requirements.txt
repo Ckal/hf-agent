@@ -1,0 +1,9 @@
+markdownify
+smolagents
+requests
+duckduckgo_search
+pandas
+
+loguru
+gradio>=4.0.0
+transformers>=4.35.0
